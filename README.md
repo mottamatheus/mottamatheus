@@ -1,18 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Motta</h1>
 
-- 🔥  Frontend Software Engineer building performant, accessible and beautiful web apps
-
-- 😁  Pronouns: he/him
+- 🔥  Fullstack Software Engineer building performant, accessible and beautiful web apps used by thousands of users daily.
 
 - 👨‍💻  Some of my projects are available at [matheusmotta.dev](https://matheusmotta.dev)
 
-- 🧠  Always eager to learn and share knowledge and laughs
+- 🧠  Always eager to learn and share knowledge and laughs.
 
-- 👨‍🍳  I love to cook for friends and family
+- 👨‍🎓  Bachelor's degree in International Relations and professional background in Marketing.
 
-- 👨‍🎓  Bachelor's degree in International Relations and professional background in Marketing
-
-- 🐾  Fun fact: I have 6 dogs and 4 cats
 
 
 
